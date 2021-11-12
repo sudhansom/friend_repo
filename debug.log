@@ -1,0 +1,164 @@
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"Movie validation failed","errors":{"duration":{"kind":"required","message":"Path `duration` is required.","name":"ValidatorError","path":"duration","properties":{"message":"Path `duration` is required.","path":"duration","type":"required"}}},"level":"error","message":"Movie validation failed: duration: Path `duration` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"User validation failed","errors":{"Telephon":{"kind":"required","message":"Path `Telephon` is required.","name":"ValidatorError","path":"Telephon","properties":{"message":"Path `Telephon` is required.","path":"Telephon","type":"required"}}},"level":"error","message":"User validation failed: Telephon: Path `Telephon` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"User validation failed","errors":{"Telephon":{"kind":"required","message":"Path `Telephon` is required.","name":"ValidatorError","path":"Telephon","properties":{"message":"Path `Telephon` is required.","path":"Telephon","type":"required"}}},"level":"error","message":"User validation failed: Telephon: Path `Telephon` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"Telephon":{"kind":"required","message":"Path `Telephon` is required.","name":"ValidatorError","path":"Telephon","properties":{"message":"Path `Telephon` is required.","path":"Telephon","type":"required"}}},"level":"error","message":"User validation failed: Telephon: Path `Telephon` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"Telephon":{"kind":"required","message":"Path `Telephon` is required.","name":"ValidatorError","path":"Telephon","properties":{"message":"Path `Telephon` is required.","path":"Telephon","type":"required"}}},"level":"error","message":"User validation failed: Telephon: Path `Telephon` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"User validation failed","errors":{"email":{"kind":"required","message":"Path `email` is required.","name":"ValidatorError","path":"email","properties":{"message":"Path `email` is required.","path":"email","type":"required"}}},"level":"error","message":"User validation failed: email: Path `email` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"Variant validation failed","errors":{"productColor":{"kind":"required","message":"Path `productColor` is required.","name":"ValidatorError","path":"productColor","properties":{"message":"Path `productColor` is required.","path":"productColor","type":"required"}},"productSize":{"kind":"required","message":"Path `productSize` is required.","name":"ValidatorError","path":"productSize","properties":{"message":"Path `productSize` is required.","path":"productSize","type":"required"}}},"level":"error","message":"Variant validation failed: productColor: Path `productColor` is required., productSize: Path `productSize` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"Prodcut validation failed","errors":{"variants.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"prductSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"CastError","path":"variants.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ productColor: 'Green', prductSize: 'medium' }\" (type Object) at path \"variants\"","name":"CastError","path":"variants","reason":{},"stringValue":"\"{ productColor: 'Green', prductSize: 'medium' }\"","value":{"prductSize":"medium","productColor":"Green"},"valueType":"Object"},"stringValue":"\"[{\"productColor\":\"Green\",\"prductSize\":\"medium\"}]\"","value":"[{\"productColor\":\"Green\",\"prductSize\":\"medium\"}]","valueType":"string"}},"level":"error","message":"Prodcut validation failed: variants.0: Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"prductSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"ValidationError"}
+{"_message":"Prodcut validation failed","errors":{"variants.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"CastError","path":"variants.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ productColor: 'Green', productSize: 'medium' }\" (type Object) at path \"variants\"","name":"CastError","path":"variants","reason":{},"stringValue":"\"{ productColor: 'Green', productSize: 'medium' }\"","value":{"productColor":"Green","productSize":"medium"},"valueType":"Object"},"stringValue":"\"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\"","value":"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]","valueType":"string"}},"level":"error","message":"Prodcut validation failed: variants.0: Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"Prodcut validation failed","errors":{"variants.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"CastError","path":"variants.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ productColor: 'Green', productSize: 'medium' }\" (type Object) at path \"variants\"","name":"CastError","path":"variants","reason":{},"stringValue":"\"{ productColor: 'Green', productSize: 'medium' }\"","value":{"productColor":"Green","productSize":"medium"},"valueType":"Object"},"stringValue":"\"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\"","value":"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]","valueType":"string"}},"level":"error","message":"Prodcut validation failed: variants.0: Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"_message":"Product validation failed","errors":{"variants.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"CastError","path":"variants.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ productColor: 'Green', productSize: 'medium' }\" (type Object) at path \"variants\"","name":"CastError","path":"variants","reason":{},"stringValue":"\"{ productColor: 'Green', productSize: 'medium' }\"","value":{"productColor":"Green","productSize":"medium"},"valueType":"Object"},"stringValue":"\"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\"","value":"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]","valueType":"string"}},"level":"error","message":"Product validation failed: variants.0: Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"ValidationError"}
+{"_message":"Product validation failed","errors":{"variants.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"CastError","path":"variants.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ productColor: 'Green', productSize: 'medium' }\" (type Object) at path \"variants\"","name":"CastError","path":"variants","reason":{},"stringValue":"\"{ productColor: 'Green', productSize: 'medium' }\"","value":{"productColor":"Green","productSize":"medium"},"valueType":"Object"},"stringValue":"\"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\"","value":"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]","valueType":"string"}},"level":"error","message":"Product validation failed: variants.0: Cast to [ObjectId] failed for value \"[{\"productColor\":\"Green\",\"productSize\":\"medium\"}]\" (type string) at path \"variants.0\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env file to supply config environment variables"}

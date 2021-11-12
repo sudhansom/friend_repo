@@ -1,0 +1,74 @@
+GET  http://localhost:5000/api/v1/users/ HTTP/1.1
+
+###
+
+POST http://localhost:5000/api/v1/users/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName": "Fowad",
+    "lastName": "Latif",
+    "email": "sfds@sdfd.com",
+    "telephone": 123456789,
+    "countryCode": "+45",
+    "address": [
+        {
+            "street": "stadionvej",
+            "city": "Glostrup",
+            "postalCode": 2600
+        }
+    ]
+}
+
+###
+
+GET  http://localhost:5000/api/v1/products/ HTTP/1.1
+
+###
+
+GET http://localhost:5000/api/v1/products/617add52bf00db1f68401330 HTTP/1.1
+
+###
+
+POST http://localhost:5000/api/v1/products/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "White Belt",
+    "image": "https://thumbs.dreamstime.com/b/white-leather-thin-belt-isolated-148540498.jpg",
+    "price": 500,
+    "description": "Belts",
+    "variants": [
+        "617d092c66a7b42640c6fa89",
+        "617d096166a7b42640c6fa8b",
+        "617d096d66a7b42640c6fa8d"
+    ]
+}
+
+
+###
+
+DELETE  http://localhost:5000/api/v1/products/616724a3aae22a2a601300ab HTTP/1.1
+
+###
+
+PUT  http://localhost:5000/api/v1/products/6167248eaae22a2a601300a9 HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Blaupunkt Tv"    
+}
+
+###
+
+GET  http://localhost:5000/api/v1/variants/ HTTP/1.1
+
+###
+
+POST http://localhost:5000/api/v1/variants/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "productColor": "red",
+    "productSize": "large"
+}
