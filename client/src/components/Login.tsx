@@ -30,16 +30,20 @@ const useStyles = makeStyles({
 function Login({ setUser }: LoginProps) {
   const classes = useStyles()
   const responseGoogle = async (response: any) => {
-    console.log(response.tokenId)
+    
     const tokenId = response.tokenId
+    
     const result = await axios.post<Response>('/google/login', {
       id_token: tokenId,
     })
-
+    
     const token = result.data.token
+    
+    
     localStorage.setItem('token', token)
 
     const userData = result.data.user
+    console.log("userdata", userData)
     setUser(userData)
   }
   return (

@@ -11,12 +11,12 @@ export const googleLogin = async (
   next: NextFunction
 ) => {
   const userData = req.user as UserDocument
-  console.log('data', userData)
-
+  
   const token = jwt.sign(userData.toJSON(), JWT_SECRET, { expiresIn: '2h' })
-  console.log('user', userData)
+  
   //generate jwt token and give it back to the user
-  res.json(token)
+  
+  res.json({token: token, user: userData})
 }
 
 //the rest of the things should be here and then we need to create a jwt strategy as well
