@@ -17,11 +17,9 @@ const jsonwebtoken_1 = __importDefault(require("jsonwebtoken"));
 const secrets_1 = require("../util/secrets");
 exports.googleLogin = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     const userData = req.user;
-    console.log('data', userData);
     const token = jsonwebtoken_1.default.sign(userData.toJSON(), secrets_1.JWT_SECRET, { expiresIn: '2h' });
-    console.log('user', userData);
     //generate jwt token and give it back to the user
-    res.json(token);
+    res.json({ token: token, user: userData });
 });
 //the rest of the things should be here and then we need to create a jwt strategy as well
 // in the passport.ts.
